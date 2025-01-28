@@ -1,6 +1,6 @@
 {
-    "name": "mindef/demo",
-    "description": "Proyecto MVC demo",
+    "name": "mindef/mantenimientos",
+    "description": "Creación de CRUD",
     "type": "project",
     "config": {
         "platform-check": false
